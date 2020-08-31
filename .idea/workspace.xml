@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4bb38db-6b81-4999-8fcc-b81d9f3384fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1gelxJOTS6MFW1i7jhFlM80yBuX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="example.Main" />
+      <module name="progfun1-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListsSuite.intNotZero$u0020NOT$u0020throws$u0020an$u0020exception$u0020if$u0020its$u0020argument$u0020is$u00201" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.ListsSuite" />
+      <option name="METHOD_NAME" value="intNotZero$u0020NOT$u0020throws$u0020an$u0020exception$u0020if$u0020its$u0020argument$u0020is$u00201" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListsSuite.intNotZero$u0020throws$u0020OTHER$u0020exception$u0020if$u0020its$u0020argument$u0020is$u00205$div0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.ListsSuite" />
+      <option name="METHOD_NAME" value="intNotZero$u0020throws$u0020OTHER$u0020exception$u0020if$u0020its$u0020argument$u0020is$u00205$div0" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListsSuite.max$u0020of$u0020a$u0020few$u0020numbers$u0020$u002810pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.ListsSuite" />
+      <option name="METHOD_NAME" value="max$u0020of$u0020a$u0020few$u0020numbers$u0020$u002810pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListsSuite.sum$u0020of$u0020a$u0020few$u0020numbers$u0020$u002810pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.ListsSuite" />
+      <option name="METHOD_NAME" value="sum$u0020of$u0020a$u0020few$u0020numbers$u0020$u002810pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ListsSuite.max$u0020of$u0020a$u0020few$u0020numbers$u0020$u002810pts$u0029" />
+        <item itemvalue="JUnit.ListsSuite.sum$u0020of$u0020a$u0020few$u0020numbers$u0020$u002810pts$u0029" />
+        <item itemvalue="JUnit.ListsSuite.intNotZero$u0020throws$u0020OTHER$u0020exception$u0020if$u0020its$u0020argument$u0020is$u00205$div0" />
+        <item itemvalue="JUnit.ListsSuite.intNotZero$u0020NOT$u0020throws$u0020an$u0020exception$u0020if$u0020its$u0020argument$u0020is$u00201" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun1-example" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="scala-spark-week1-example [file:/Users/Jan.K/scala-spark-week1-example/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="progfun1-example-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="9441947046000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="324345361" />
+        <entry key="$PROJECT_DIR$/project/MOOCSettings.scala" value="21085509" />
+        <entry key="$PROJECT_DIR$/project/StudentTasks.scala" value="2255003577" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3724303870" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2992893007" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2462477588" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../aims" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4bb38db-6b81-4999-8fcc-b81d9f3384fc" name="Default Changelist" comment="" />
+      <created>1598483183783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598483183783</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="185" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1598743685273">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="496" y="185" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.812@0.23.1440.812" timestamp="1598743685273" />
+    <state x="177" y="123" width="1163" height="597" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1598739719655">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="177" y="123" width="1163" height="597" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.812@0.23.1440.812" timestamp="1598739719655" />
+    <state x="1025" y="305" width="427" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1598486463896">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1025" y="305" width="427" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1920.1057@0.23.1920.1057" timestamp="1598486463896" />
+    <state width="1321" height="216" key="GridCell.Tab.0.bottom" timestamp="1598744783348">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1321" height="216" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1598744783348" />
+    <state width="1321" height="216" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1598487715800" />
+    <state width="1321" height="216" key="GridCell.Tab.0.center" timestamp="1598744783347">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1321" height="216" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1598744783347" />
+    <state width="1321" height="216" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1598487715799" />
+    <state width="1321" height="216" key="GridCell.Tab.0.left" timestamp="1598744783346">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1321" height="216" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1598744783346" />
+    <state width="1321" height="216" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1598487715799" />
+    <state width="1321" height="216" key="GridCell.Tab.0.right" timestamp="1598744783347">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1321" height="216" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1598744783347" />
+    <state width="1321" height="216" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1598487715799" />
+    <state width="1321" height="253" key="GridCell.Tab.1.bottom" timestamp="1598740358228">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1321" height="253" key="GridCell.Tab.1.bottom/0.23.1440.812@0.23.1440.812" timestamp="1598740358228" />
+    <state width="1321" height="253" key="GridCell.Tab.1.center" timestamp="1598740358227">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1321" height="253" key="GridCell.Tab.1.center/0.23.1440.812@0.23.1440.812" timestamp="1598740358227" />
+    <state width="1321" height="253" key="GridCell.Tab.1.left" timestamp="1598740358227">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1321" height="253" key="GridCell.Tab.1.left/0.23.1440.812@0.23.1440.812" timestamp="1598740358227" />
+    <state width="1321" height="253" key="GridCell.Tab.1.right" timestamp="1598740358228">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1321" height="253" key="GridCell.Tab.1.right/0.23.1440.812@0.23.1440.812" timestamp="1598740358228" />
+    <state x="135" y="149" key="new project wizard" timestamp="1598745755372">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="135" y="149" key="new project wizard/0.23.1440.812@0.23.1440.812" timestamp="1598745755372" />
+  </component>
+</project>
